@@ -1,6 +1,6 @@
 ﻿using HarmonyLib;
 
-namespace ExampleMod;
+namespace CombinedFoo;
 
 [HarmonyPatch]
 public class Patches {
